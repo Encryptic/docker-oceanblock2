@@ -1,4 +1,4 @@
-# [FTB OceanBlock 2-1.9.0](https://www.feed-the-beast.com/modpacks/128-ftb-oceanblock-2) from FTB.
+# [FTB OceanBlock 2-1.11.1](https://www.feed-the-beast.com/modpacks/128-ftb-oceanblock-2) from FTB.
 <!-- toc -->
 
 - [Description](#description)
