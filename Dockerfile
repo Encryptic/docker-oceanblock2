@@ -2,7 +2,7 @@
 
 FROM eclipse-temurin:21-jdk-noble
 
-LABEL version="1.9.0"
+LABEL version="1.11.1"
 
 ARG PACK_ID=128
 ENV PACK_ID=${PACK_ID}
