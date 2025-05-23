@@ -6,7 +6,7 @@ LABEL version="1.11.1"
 
 ARG PACK_ID=128
 ENV PACK_ID=${PACK_ID}
-ARG PACK_VERSION=100074
+ARG PACK_VERSION=100092
 ENV PACK_VERSION=${PACK_VERSION}
 
 RUN apt-get update && apt-get install -y curl unzip jq && \
